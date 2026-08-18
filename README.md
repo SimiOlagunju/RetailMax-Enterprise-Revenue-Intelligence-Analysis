@@ -24,7 +24,7 @@ This project analyses retail transaction data for RetailMax Group Ltd to uncover
 
 ### Tools Used
 - Microsoft Excel – Data cleaning, validation and preparation
-- Power BI – Data modelling, DAX measure development and interactive 5-page dashboard
+- Power BI – Data modelling, DAX measure development
 
 ### Dataset Overview
 The dataset contains retail transaction and customer data including:
